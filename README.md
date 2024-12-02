@@ -19,5 +19,5 @@ npm install
 ```
 npm run dev
 ```
-Access to your application by this URL
+Access  to your application by this URL
 http://localhost:3000
